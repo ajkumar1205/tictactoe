@@ -1,9 +1,9 @@
 # TicTacToe
-A simple flutter sdk based mobile application.
+A simple flutter sdk based mobile application.'\n'
 -The Entry Screen will look like
 ![Screenshot_1679802174](https://user-images.githubusercontent.com/97942353/227754227-bc405f00-acad-4012-b013-3e61f79f82b0.png)
 By clicking on any of the buttons it will navigate you to the next page.
--This i the main Game Board Screen
+-This is the main Game Board Screen
 ![Screenshot_1679802183](https://user-images.githubusercontent.com/97942353/227754287-084685de-0893-49e3-8188-857d6d68aa2f.png)
 The turn of the player will depend on the button you clicked on the Home Screen of the application
 When any of the player will make a trio a snackbar will appear Showing the winner.
